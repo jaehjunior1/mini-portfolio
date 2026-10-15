@@ -35,3 +35,20 @@ header h2 {
     margin: 0;
     letter-spacing: 1px;
 }
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 0 0 10px;
+}
+
+footer a {
+    color: #00bcd4;
+    text-decoration: none;
+}
